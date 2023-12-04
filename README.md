@@ -36,6 +36,9 @@ removeFromDynArr(&myArray, position);
 freeDynArr(&myArray);
 ```
 
+![image](https://github.com/CoffeeeAtNight/Dynamic-Array_Implementation/assets/98992091/d9b49c05-b04b-4d92-ac80-ebf02dc81089)
+
+
 ## License
 
 Specify the license under which this project is made available. Common choices include MIT, GPL, Apache 2.0, etc.
