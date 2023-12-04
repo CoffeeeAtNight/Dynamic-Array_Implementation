@@ -36,7 +36,7 @@ removeFromDynArr(&myArray, position);
 freeDynArr(&myArray);
 ```
 
-![image](https://github.com/CoffeeeAtNight/Dynamic-Array_Implementation/assets/98992091/d9b49c05-b04b-4d92-ac80-ebf02dc81089)
+![image](https://github.com/CoffeeeAtNight/Dynamic-Array_Implementation/assets/98992091/d8b29c15-c979-4bd7-abe2-1f5f0676668d)
 
 
 ## License
